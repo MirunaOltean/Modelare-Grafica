@@ -1,0 +1,2 @@
+D:\UnitBV\An II\Semestrul 1\Modelare Grafica\Lab8\x64\Debug\Lab8.exe
+D:\UnitBV\An II\Semestrul 1\Modelare Grafica\ProiectMG\x64\Debug\Lab8.exe
