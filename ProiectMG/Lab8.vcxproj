@@ -163,8 +163,6 @@
     <None Include="5.1.framebuffers_screen.vs">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </None>
-    <None Include="6.2.skybox.fs" />
-    <None Include="6.2.skybox.vs" />
     <None Include="model_loading.fs">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </None>
