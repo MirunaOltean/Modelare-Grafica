@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LamMG6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  Flight_Simulator.cpp
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\MTLLoader.h(30,8): warning C4101: 'value': unreferenced local variable
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Camera.h(277,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Camera.h(282,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Camera.h(288,32): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Camera.h(293,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Camera.h(308,32): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Camera.h(313,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Camera.h(319,32): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Camera.h(324,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\vnoha\source\repos\G3D\_external\glfw-3.3.5.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Flight_Simulator.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Flight_Simulator.cpp(140,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Flight_Simulator.cpp(191,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Flight_Simulator.cpp(288,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Flight_Simulator.cpp(321,44): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Flight_Simulator.cpp(270,11): warning C4101: 'position': unreferenced local variable
+  Mesh.cpp
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\MTLLoader.h(30,8): warning C4101: 'value': unreferenced local variable
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Mesh.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Mesh.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vnoha\Desktop\Flight_Simulator\LamMG6\Mesh.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+  Shader.cpp
+  Generating Code...
+  TextureLoader.cpp
+  LamMG6.vcxproj -> C:\Users\vnoha\Desktop\Flight_Simulator\Debug\Flight_Simulator.exe
